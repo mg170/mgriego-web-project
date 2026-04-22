@@ -1,2 +1,3 @@
 # mgriego-web-project
 Project2 - HTML Foundation Page - Theme of the webpage is an initial hobby page for myself. I have learned about possible errors that may arise from creating a webpage such as obsolute codes or disregarding information needed in a list due to incorrect formatting. My main challeneges would be the color scheme to try and keep the website entertaining since this information is mainly important to myself. 
+Project3 - CSS Implementation - Theme of the webpage is an initial hobby page for myself.  My main challeneges would be the uploading and linking of the files.
