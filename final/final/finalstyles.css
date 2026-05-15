@@ -1,0 +1,72 @@
+
+body { background-color: #b1d1b9; 
+    margin: 0;
+    min-height: 100vh; }
+
+h1{
+  font-family:"Lucida Console", monospace;
+  font-size: 25px;
+  color: rgb(189, 38, 156);
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+}
+
+h2{
+  font-family:"Lucida Console", monospace;
+  font-size: 20px;
+  color: rgb(223, 79, 228);
+  padding: 10px;
+  margin: 5px;
+}
+
+h3{
+  font-family:"Lucida Console", monospace;
+  font-size: 20px;
+  color: rgb(226, 53, 111);
+  padding: 10px;
+  margin: 5px;
+}
+
+p {
+  font-family: "Lucida Handwriting", cursive;
+  font-size: 13px;
+color: rgb(95, 14, 75);
+padding: 2px;
+margin: 5px;
+}
+
+ul li{
+color: rgb(102, 27, 71);
+margin: 5px;
+list-style-position: outside;
+}
+
+
+table{
+color: rgb(5, 5, 5);
+margin: auto;
+text-align: center;
+border-style: solid;
+}
+
+td{
+color: rgb(99, 32, 126);
+margin: auto;
+text-align: center; 
+border-style: solid;
+}
+
+a:link{
+color:red;
+}
+
+a:visited{
+color: rgb(58, 124, 185);
+}
+
+a:hover{
+color:hotpink;
+}
+
+
